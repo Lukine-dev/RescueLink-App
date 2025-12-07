@@ -3,10 +3,17 @@
 > _Replace this placeholder with your content._
 
 
-**Project Title**  
-**Team Members:** Name 1, Name 2, Name 3  
-**Department:** College / Program  
-**Date:** YYYY-MM-DD
+**RESCUE LINK : An Android-based Rescue Coordination Application**  
+**Team Members:** 
+Justine Carl P. Mantua
+Joerad M. Radones
+Kean Joshua C. Tan
+Francis Eric C. Obias
+John Bladimir T. Uvero
+Kathrina M.Cama
+
+**Department:** Mabini Colleges, Inc. / Bachelor Of Science in Computer Science 
+**Date:** December, 2025
 
 
 ---
